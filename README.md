@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulagna-pradhan" alt="sulagna-pradhan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sulagnapro.netlify.app/](https://sulagnapro.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.sulagnapradhan.online/projects](https://www.sulagnapradhan.online/projects)
 
 - 📫 How to reach me **infinityresources81@gmail.com**
 
