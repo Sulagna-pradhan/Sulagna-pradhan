@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend web developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://www.sulagnapradhan.online/projects](https://www.sulagnapradhan.online/projects)
+- 👨‍💻 All of my projects are available at [https://www.sulagnapradhan.online/projects](https://sulagnapradhan.vercel.app/projects)
 
 - 📫 How to reach me **infinityresources81@gmail.com**
 
