@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sulagna Pradhan</h1>
-# 💫 About Me:
-🔭 **I’m currently working on**<br>- Small web projects and experimenting with new technologies.<br><br>🤝 **I’m looking for help with**<br>- Improving my coding skills, best practices, and real-world project development.<br><br>🌱 **I’m currently learning**<br>- Python, Data Structures & Algorithms, and modern web development.<br><br>👨‍💻 **All of my projects are available at**<br>- https://sulagnapradhan.vercel.app/projects
+
+## 👋 About Me
+
+🔭 **I’m currently working on**
+- Small web projects and experimenting with new technologies.
+
+🤝 **I’m looking for help with**
+- Improving my coding skills, best practices, and real-world project development.
+
+🌱 **I’m currently learning**
+- Python, Data Structures & Algorithms, and modern web development.
+
+👨‍💻 **All of my projects are available at**
+- https://sulagnapradhan.vercel.app/projects
 
 
 ## 🌐 Socials:
